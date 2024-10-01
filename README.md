@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kawan Harshe Kakubo 👋
 * 📚 Atualmente sou graduando em Engenharia de Software pela Universidade Tecnológica Federal do Paraná.
-* 🌱 Também tenho interesse e estou estudando Python.
+* 🌱 Também tenho interesse e estou estudando Python, JavaScript, NodeJS, TypeScript, SQL e etc.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width="48%" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=KawanKakubo&theme=dark" />

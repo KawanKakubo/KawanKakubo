@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como **Chefe da Divisão da Secretaria de Ciência, Tecnologia e Inovação**
 
-- 🌱 Estou aprendendo **React, NodeJS, TypeScript, Java, Python**
+- 🌱 Estou aprendendo **PHP, JavaScript, Python, PostgreSQL**
 
 - 👨‍💻 Conheça mais sobre mim [DevLinks](https://bit.ly/devlinkskawan)
 

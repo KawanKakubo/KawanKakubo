@@ -7,7 +7,7 @@
 
 - 👨‍💻 Conheça mais sobre mim [DevLinks](https://bit.ly/devlinkskawan)
 
-- 📫 Entre em contato comigo: **kawanhrs@gmail.com**
+- 📫 Entre em contato comigo: **kawan.kakubo@outlook.com**
 
 <h3 align="left">Conecte comigo:</h3>
 <p align="left">
